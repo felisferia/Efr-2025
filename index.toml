@@ -14,7 +14,7 @@ hash = "b133701ea057c550fb94eab97bfc1784f9292ba07c02fb4e33c0d715816fec31"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "2d3d39020a73779c0ea182d97f2b29885529fb22e04369e636ea0ff7c7275dc3"
+hash = "1a034c70e1541ff64a4ccaf6941ce33e4fd5e85d1c89022b7ada2b29e2ec60c2"
 
 [[files]]
 file = "config/NGTLib.cfg"
@@ -34,7 +34,7 @@ hash = "5030b198c5bee3798ef8c1e4fbcfa5d0b824c90f7b1a173be3e3f67cabe08695"
 
 [[files]]
 file = "config/RTM.cfg"
-hash = "7c566b7b771dd5c5f1fcca4e9d59ba521c7c342ba087d9949d198dc36ed3895f"
+hash = "8d999e5bb932c4bda5a17a91f8da084d4acced38ac7750296242faa6cac68b28"
 
 [[files]]
 file = "config/Wintercraft.cfg"
@@ -213,10 +213,6 @@ hash = "4eb07c35fa3ce367ef0ca220fa81ee93d533ecd62b2aa5c3a95755e229fd85f1"
 metafile = true
 
 [[files]]
-file = "mods/liteloader-1.7.10_04.jar"
-hash = "a30e91e7abfcf482fd740893a207e2e00eb6a24d3909bfa2939a13b3c1703b7b"
-
-[[files]]
 file = "mods/lwjgl3ify.pw.toml"
 hash = "63fddaa8b54bc4a2f9cdf2dbdf653b23dfd2694c75226e9c10a25c05ef6a7f65"
 metafile = true
@@ -324,11 +320,6 @@ metafile = true
 [[files]]
 file = "mods/unimixins.pw.toml"
 hash = "053ad74894a5eda9252506d1737f65de1cb0c10d1be7adcab0acb2241e47893d"
-metafile = true
-
-[[files]]
-file = "mods/voxelmap.pw.toml"
-hash = "a7197567f4eb621b13aef16c47578d6ca34f1b6a4b48d27ca791553c583f49a0"
 metafile = true
 
 [[files]]
