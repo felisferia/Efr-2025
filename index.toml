@@ -21,7 +21,7 @@ hash = "14e699ee2191141bd41626cb96b61fef537e319b811eaeddcc8a9ff3c2f61d33"
 
 [[files]]
 file = "mods/angelica.pw.toml"
-hash = "722ed040d100fef3b430505106c00fc2822bf9472b68ac65badbf557c37a60ca"
+hash = "dabcbfefa4f930236598d6509fe20912f64fbbcd36c938cdc225fac58e8ea51b"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "9442cab9d8a6bf93eaaf900e1142683cb27d419d9a7eb250b169d6246cfc9f50"
+hash = "75c35f862264cb9d152265a19f13d25050adca2d61a426afa05febffe0bafd45"
 metafile = true
 
 [[files]]
