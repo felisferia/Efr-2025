@@ -308,8 +308,8 @@ hash = "29044804d1822f583f129724142c2db5e75ed26ae3d853284e717410b2e3e10b"
 metafile = true
 
 [[files]]
-file = "mods/mp1_9_4.pw.toml"
-hash = "7effacb522bacbd1a9431b152840a3e123306dd38cb256385ec5ec7593076194"
+file = "mods/mp1_9_4-fix.pw.toml"
+hash = "4e37fdce97704b36af21d1618772baac2a62a3b1abd6effddb0ba309ff837c7c"
 metafile = true
 
 [[files]]

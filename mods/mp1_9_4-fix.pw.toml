@@ -1,0 +1,8 @@
+name = "mp1_9_4-fix"
+filename = "mp1_9_4-fix.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/efrana/rtm/file/mp1_9_4-fix.zip"
+hash-format = "sha256"
+hash = "489b99de7767f6dadbece261c037bc846df034e01aba5ee3b8aa2aa55fef8e04"
