@@ -1,0 +1,8 @@
+name = "rtm_ttkrp_6.0"
+filename = "rtm_ttkrp_6.0.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/rtm_ttkrp_6.0.zip"
+hash-format = "sha256"
+hash = "5e3b8b4e8deb8ffc3d781dcf57ea83d18d3fb06a0759bf0974c7ad52a06d297c"

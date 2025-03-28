@@ -1,0 +1,8 @@
+name = "hi03CatenaryPack_Common_v02"
+filename = "hi03CatenaryPack_Common_v02.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/hi03CatenaryPack_Common_v02.zip"
+hash-format = "sha256"
+hash = "62b5ae6bb30fbb0d23fb01cad1c45a86bf922f08adde7e455ed16033ddf7ea48"

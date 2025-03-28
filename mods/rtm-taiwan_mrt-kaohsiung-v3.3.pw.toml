@@ -1,0 +1,8 @@
+name = "RTM-Taiwan_MRT-Kaohsiung-v3.3"
+filename = "RTM-Taiwan_MRT-Kaohsiung-v3.3.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/RTM-Taiwan_MRT-Kaohsiung-v3.3.zip"
+hash-format = "sha256"
+hash = "7fa7205e240e62a83602f8664d074dd68260ec307fbc719a90be5ae746177205"

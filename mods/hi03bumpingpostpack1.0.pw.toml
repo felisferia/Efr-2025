@@ -1,0 +1,8 @@
+name = "hi03BumpingPostPack1.0"
+filename = "hi03BumpingPostPack1.0.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/hi03BumpingPostPack1.0.zip"
+hash-format = "sha256"
+hash = "41cb2d08812d440466f074cbf2b8e419fe7aa2cbb79854a29550a3c825b0a88d"

@@ -1,0 +1,8 @@
+name = "ModelPack_NSW_NIF_240207"
+filename = "ModelPack_NSW_NIF_240207.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/ModelPack_NSW_NIF_240207.zip"
+hash-format = "sha256"
+hash = "72e9977b6c8bbca717a6d6c6aed87d81e60f9966ccc694d61ca4b2e6c5d71fe6"

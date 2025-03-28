@@ -1,0 +1,8 @@
+name = "RTM-ScriptsSoundLib-v2.9.3"
+filename = "RTM-ScriptsSoundLib-v2.9.3.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/RTM-ScriptsSoundLib-v2.9.3.zip"
+hash-format = "sha256"
+hash = "279a6d23a04847e293db04f926484ae699c11423842111a66a183504724ab047"

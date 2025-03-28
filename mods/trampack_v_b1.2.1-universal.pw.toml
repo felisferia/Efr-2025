@@ -1,0 +1,8 @@
+name = "TramPack_v_b1.2.1-universal"
+filename = "TramPack_v_b1.2.1-universal.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/TramPack_v_b1.2.1-universal.zip"
+hash-format = "sha256"
+hash = "5748739b7bbaa10e9b07cb434185766a55eb41d7159c2b1b605dade2f2c9eae1"

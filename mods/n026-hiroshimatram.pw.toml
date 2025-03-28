@@ -1,0 +1,8 @@
+name = "N026-HiroshimaTram"
+filename = "N026-HiroshimaTram.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/N026-HiroshimaTram.zip"
+hash-format = "sha256"
+hash = "42b90edb96a0a9a6a20961b5d70f20c77f9337bff48d8d1530f67adcf1b41aa5"

@@ -1,0 +1,8 @@
+name = "hi03RailStructure"
+filename = "hi03RailStructure.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/hi03RailStructure.zip"
+hash-format = "sha256"
+hash = "0ce57ce825abdccf1cd565441604c5385e3653f7bbb318f58b7e87074cd3ea9c"

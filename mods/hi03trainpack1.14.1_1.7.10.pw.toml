@@ -1,0 +1,8 @@
+name = "hi03TrainPack1.14.1_1.7.10"
+filename = "hi03TrainPack1.14.1_1.7.10.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/hi03TrainPack1.14.1_1.7.10.zip"
+hash-format = "sha256"
+hash = "2437209197d08fe28aae5fb2a99dbd728c5997fe38a1ea5c468aaab09eeb2073"

@@ -1,0 +1,8 @@
+name = "TX-1000"
+filename = "TX-1000.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/TX-1000.zip"
+hash-format = "sha256"
+hash = "3ce1a71af618581825ad7c1ee08136864b81647d534596a2ea7075b852a818cc"

@@ -168,6 +168,11 @@ hash = "4dca4451404d68b3c14d919badd75b5a2264f9917b8a359f3e80ef06d13f2b4f"
 metafile = true
 
 [[files]]
+file = "mods/dn01-variotram.pw.toml"
+hash = "8bd53457892b878f875ca472a6184b48bbca47f4c271722dec2316114069614a"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "75c35f862264cb9d152265a19f13d25050adca2d61a426afa05febffe0bafd45"
 metafile = true
@@ -193,6 +198,56 @@ hash = "f9e7b9a07f61a0c2cbde5a20896fed6946c9d813ac6d0fd63443c256e7b8dbc5"
 metafile = true
 
 [[files]]
+file = "mods/hi03bumpingpostpack1.0.pw.toml"
+hash = "7b62820aed27278f08ccd49ae27aeb53090fab099baa0c66d3d816b16da11aa0"
+metafile = true
+
+[[files]]
+file = "mods/hi03catenarypack_common_v02.pw.toml"
+hash = "d624fb562fe757838908791c00a15868b2dd6e68c3859e918b92fc1f861a3f00"
+metafile = true
+
+[[files]]
+file = "mods/hi03expressrailway_catenary.pw.toml"
+hash = "e8eb0c95e74f7478e56e98208f3976ffd98d22e043dd97f73704f04c1bbfd1b2"
+metafile = true
+
+[[files]]
+file = "mods/hi03expressrailway_catenary_w51.pw.toml"
+hash = "29de3a094ee21d179e400a51cb721bbc1db7a1e5aacfe828e9b1204b8de17722"
+metafile = true
+
+[[files]]
+file = "mods/hi03expressrailway_railassets.pw.toml"
+hash = "d9134b269449b340f0452598d4e516c97302fc8676970c1183e5c34064cdf35f"
+metafile = true
+
+[[files]]
+file = "mods/hi03expressrailway_rails1067mm.pw.toml"
+hash = "f0c396d69cc4409143cbc33019bab80162457f156b520c9716b6e1cafb40047c"
+metafile = true
+
+[[files]]
+file = "mods/hi03railstructure.pw.toml"
+hash = "8183785869ec3337a64e5699211092f118d10f3a894c5b6f03cb66f29bcf1700"
+metafile = true
+
+[[files]]
+file = "mods/hi03soundlib.pw.toml"
+hash = "4d3cec32c559fc68a72fb39be00acfeaccd487a09cb89ec43573293d3c9e189a"
+metafile = true
+
+[[files]]
+file = "mods/hi03structurepack1.0.2.pw.toml"
+hash = "3b022266cfd7fe1ed76afd1f8a5e12d5e9bde9aebb55cbd7b1b0c6aedbd313be"
+metafile = true
+
+[[files]]
+file = "mods/hi03trainpack1.14.1_1.7.10.pw.toml"
+hash = "29012794539f72ece239953c9216f802a0ce37056e7e158fe6335e0653f24be3"
+metafile = true
+
+[[files]]
 file = "mods/hodgepodge.pw.toml"
 hash = "282990abe3beacb9a8c9bcdcde12628f767918698f0801a13ebf4d793accb2cb"
 metafile = true
@@ -213,6 +268,11 @@ hash = "4eb07c35fa3ce367ef0ca220fa81ee93d533ecd62b2aa5c3a95755e229fd85f1"
 metafile = true
 
 [[files]]
+file = "mods/kt-nagarapack_rtm_ver0.5.pw.toml"
+hash = "0215c734e02e569d40810df1ae82756c1d2045a52bcbabe1e6fd645ab04d4f6d"
+metafile = true
+
+[[files]]
 file = "mods/lwjgl3ify.pw.toml"
 hash = "63fddaa8b54bc4a2f9cdf2dbdf653b23dfd2694c75226e9c10a25c05ef6a7f65"
 metafile = true
@@ -228,8 +288,28 @@ hash = "6b5ea216cfb3290fafe52ee12bba129207320853605ac0db89e29c71f0c453a5"
 metafile = true
 
 [[files]]
+file = "mods/modelpack_nsw_nif_240207.pw.toml"
+hash = "608da33ab839e0655e75c4e102374e0debf09a19deac6edb2bd50a52fecbd887"
+metafile = true
+
+[[files]]
+file = "mods/modelpack_pc28ksoundlib_revision.pw.toml"
+hash = "8dced32294a437a89dd14c19bd56647be27a8209c15c4dd537a2f565a6f81b36"
+metafile = true
+
+[[files]]
+file = "mods/modelpack_srteuropean_241030.pw.toml"
+hash = "1d1df45b1dd8f6083ae6695c8be04d72187f01632fdeb9ee25296508cc4f9cad"
+metafile = true
+
+[[files]]
 file = "mods/monoblocks.pw.toml"
 hash = "29044804d1822f583f129724142c2db5e75ed26ae3d853284e717410b2e3e10b"
+metafile = true
+
+[[files]]
+file = "mods/mp1_9_4.pw.toml"
+hash = "b69801b1b2021edcc8907f01a5b6664213383afa60a97839ddb5244bd0d429f7"
 metafile = true
 
 [[files]]
@@ -238,8 +318,23 @@ hash = "2bf65d3d2f8d6d1e09145e3c6b08a56769f7975a667581fdcd28e72ffb7b65e9"
 metafile = true
 
 [[files]]
+file = "mods/n026-hiroshimatram.pw.toml"
+hash = "87e207dfc17d8fcd54c5de279707b39eadeed289710c81ee57b813d41b0bcbf6"
+metafile = true
+
+[[files]]
+file = "mods/na04-nb-assets.pw.toml"
+hash = "d0e81af25a66fa3e008464486686de2bb7211b2833b4494f750ba57b007d29aa"
+metafile = true
+
+[[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
 hash = "9873da0d0b80b92e60c66ba1cb4ee57b1acc9bb6dcd35bcb76f57850e097301b"
+metafile = true
+
+[[files]]
+file = "mods/nr01-nb-rails.pw.toml"
+hash = "2d1d52f4cabf0d6eb5bedb7ce7abfff4570607791afe49b8db206b1ab9e83d76"
 metafile = true
 
 [[files]]
@@ -288,6 +383,66 @@ hash = "f0f8993ab52f710aa5d76366b38a0f3f45d81dfd6b8cd8625aa031c87b192717"
 metafile = true
 
 [[files]]
+file = "mods/rtm-monorail-bubblecar.pw.toml"
+hash = "e493fd9500513f939bd16e1197b251e0e0f33bdd0a50a38c31559244754c8680"
+metafile = true
+
+[[files]]
+file = "mods/rtm-rail-v2.0.pw.toml"
+hash = "a1d0df14d585952da6c1369ee7e1e29162554bbb21478a431c4b2693493d738f"
+metafile = true
+
+[[files]]
+file = "mods/rtm-scriptssoundlib-v2.9.3.pw.toml"
+hash = "3b351c0699b6d33c9e95e5df6128ede8edfee060ee5935a117f27e55c2442635"
+metafile = true
+
+[[files]]
+file = "mods/rtm-taiwan_mrt-kaohsiung-v3.3.pw.toml"
+hash = "36964ca6014f3ce0de86f6b4ea1c72c04fb8450c2792235f563aa15cafcba637"
+metafile = true
+
+[[files]]
+file = "mods/rtm-taiwan_tra-v1.0.pw.toml"
+hash = "84a44ea09be4abd228d76df0e27ecf95ce39caff99c263134c1be30ba0649681"
+metafile = true
+
+[[files]]
+file = "mods/rtm-u.k_london_underground-v3.0.pw.toml"
+hash = "e2c25bb11831d02748eed2c056bccf1d5698c22e486a91eb144c8b99cd844fe2"
+metafile = true
+
+[[files]]
+file = "mods/rtm_hk_trampack.pw.toml"
+hash = "1f236e427612d5e4513970d1f432a18835f50c377d7d6e6c9cd91a7ca0d17564"
+metafile = true
+
+[[files]]
+file = "mods/rtm_keihan600.pw.toml"
+hash = "7e8efd57f4241fd209b42a1aaedf7af8d6dbd8226f375ab61ec7555c11f06ff4"
+metafile = true
+
+[[files]]
+file = "mods/rtm_lmcommuter_kit.pw.toml"
+hash = "d9ecfe46643ffb71da450a1c40637f60fc196fb4462e5af1a5b579693c808135"
+metafile = true
+
+[[files]]
+file = "mods/rtm_tkmnp_1.2.pw.toml"
+hash = "0dbe78343c24c8d216225e3d3ce5f424f541f6984f4522c384dea28a5ffdb991"
+metafile = true
+
+[[files]]
+file = "mods/rtm_tkmtp_13.4.pw.toml"
+hash = "4bbbada5b4bf4fa0aacd1fc3c82a0a5115be5f524ff402cad624b35beeb693b3"
+metafile = true
+
+[[files]]
+file = "mods/rtm_ttkrp_6.0.pw.toml"
+hash = "8daab398b76b79d391497ca3f54039506a04cb10b1fad169174e9fe2d1c35c93"
+metafile = true
+
+[[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
 metafile = true
@@ -295,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/small-boats-mod.pw.toml"
 hash = "e18eee1935fb1851e78ca5da7a93f9aac4b1554b266466bc513fe0b9fc88d432"
+metafile = true
+
+[[files]]
+file = "mods/spiritedawaytrain.pw.toml"
+hash = "ed9e40c85d2ad65f20cfb46e57bd07778cce401933263012f216bc3aa7d32081"
 metafile = true
 
 [[files]]
@@ -315,6 +475,21 @@ metafile = true
 [[files]]
 file = "mods/traincraft.pw.toml"
 hash = "ee0acbcc7380ec5aad1765f38c6f6911368dfc0ca4840179e8cfe6ec993a23d9"
+metafile = true
+
+[[files]]
+file = "mods/trainpack_jre_see4_v1.1.pw.toml"
+hash = "a1f5a915623e86f1f31135d29dc37641c2942979abf887ab7ab85e9934203bca"
+metafile = true
+
+[[files]]
+file = "mods/trampack_v_b1.2.1-universal.pw.toml"
+hash = "f01e0bf55780f8566c6c543af503044e02c66c38063c064f405fcfa7e980174e"
+metafile = true
+
+[[files]]
+file = "mods/tx-1000.pw.toml"
+hash = "ef24f1e3920707be58afd9ea8e6b9729e5b157ea4842728ac195d62af3dda9e8"
 metafile = true
 
 [[files]]

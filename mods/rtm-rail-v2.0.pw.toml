@@ -1,0 +1,8 @@
+name = "RTM-Rail-v2.0"
+filename = "RTM-Rail-v2.0.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/RTM-Rail-v2.0.zip"
+hash-format = "sha256"
+hash = "ee43bdb05340fb3d568d846d0776e448bc5b3a149833916f37e58c23d3d8b822"

@@ -1,0 +1,8 @@
+name = "hi03SoundLib"
+filename = "hi03SoundLib.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/hi03SoundLib.zip"
+hash-format = "sha256"
+hash = "4b18386ac51116905d74edeb7508ec3129f450c9c4738be1acf64b43bffb6937"

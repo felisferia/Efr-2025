@@ -1,0 +1,8 @@
+name = "RTM_keihan600"
+filename = "RTM_keihan600.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/RTM_keihan600.zip"
+hash-format = "sha256"
+hash = "3189d2f6ab528d8e9137ce99d2fc9b3db521edceec870f88c7a320981f7df553"

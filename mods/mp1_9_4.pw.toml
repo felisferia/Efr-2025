@@ -1,0 +1,8 @@
+name = "mp1_9_4"
+filename = "mp1_9_4.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/mp1_9_4.zip"
+hash-format = "sha256"
+hash = "0f6b7c33a0b4d51ecfc6340cde2e8d5e79c47687585bfed69260faa037d42d93"

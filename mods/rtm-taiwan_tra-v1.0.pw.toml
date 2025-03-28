@@ -1,0 +1,8 @@
+name = "RTM-Taiwan_TRA-v1.0"
+filename = "RTM-Taiwan_TRA-v1.0.zip"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/rtm/file/RTM-Taiwan_TRA-v1.0.zip"
+hash-format = "sha256"
+hash = "7b9df92f111a262705873feaea745ef42d8a5e4175fe634e4578fb9149c078bb"
