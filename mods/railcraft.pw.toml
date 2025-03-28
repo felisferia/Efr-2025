@@ -1,0 +1,15 @@
+name = "Railcraft"
+filename = "Railcraft-9.16.8-pre.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Railcraft/releases/download/9.16.8-pre/Railcraft-9.16.8-pre.jar"
+hash-format = "sha256"
+hash = "10548c82b3c9c8ba2af163d25f7410a150e379d057797ced1aaa081a4466ca15"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/Railcraft"
+tag = "9.16.8-pre"

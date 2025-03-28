@@ -1,0 +1,14 @@
+name = "Efrana"
+author = "Elanor"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "19507d558221e36b659ca0f44eb97b753f8ea87945e5e0b4f4f1b761a5c216ed"
+
+[versions]
+forge = "10.13.4.1614"
+lwjgl3ify = "2.1.11"
+minecraft = "1.7.10"

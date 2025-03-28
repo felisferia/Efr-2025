@@ -1,0 +1,13 @@
+name = "Fureniku's Roads"
+filename = "FlenixRoads_[1.7.10]-0.11.0-b43.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bd3861b3c181f2f7d3bcbdf047de31600cce953"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2722233
+project-id = 60936

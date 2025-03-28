@@ -1,0 +1,13 @@
+name = "Road Stuff"
+filename = "RoadStuff-mc1.7.10-1.0.2-final.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f58d01d9290cc464b144f050e0bc8c1f11efbba8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2347198
+project-id = 238984

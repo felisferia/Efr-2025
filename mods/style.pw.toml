@@ -1,0 +1,13 @@
+name = "Style"
+filename = "DoggyStyle-1.1.3.99.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "297c5f012670ad30a0ae83bf61644f0560f4ec09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2267394
+project-id = 229346

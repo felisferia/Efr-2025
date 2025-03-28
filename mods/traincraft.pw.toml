@@ -1,0 +1,13 @@
+name = "Traincraft"
+filename = "Traincraft-4.4.1_020-CE_7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddd8b1ca9ebf8d3b9f28926f6c24357756986de6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5083289
+project-id = 245169

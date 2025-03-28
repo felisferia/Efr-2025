@@ -1,0 +1,15 @@
+name = "Baubles-Expanded"
+filename = "BaublesExpanded-2.1.6-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.1.6-GTNH/BaublesExpanded-2.1.6-GTNH.jar"
+hash-format = "sha256"
+hash = "c321f771a4198710ff2521385eec7ac1a7f21fcce18ebef6107977234657f570"
+
+[update]
+[update.github]
+branch = "1.7.10"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/Baubles-Expanded"
+tag = "2.1.6-GTNH"

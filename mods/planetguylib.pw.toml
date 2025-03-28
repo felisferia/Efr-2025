@@ -1,0 +1,13 @@
+name = "PlanetguyLib"
+filename = "PlanetguyLib-1.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb8cd7489e32c87bd9ff1b5b098df75e9e783539"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2305574
+project-id = 225256

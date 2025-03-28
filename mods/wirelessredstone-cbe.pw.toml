@@ -1,0 +1,15 @@
+name = "WirelessRedstone-CBE"
+filename = "WR-CBE-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.0/WR-CBE-1.7.0.jar"
+hash-format = "sha256"
+hash = "5714cfd5ec0b07c709c10e57b72f397602640e30394716c0037899d6fc3c9b81"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/WirelessRedstone-CBE"
+tag = "1.7.0"

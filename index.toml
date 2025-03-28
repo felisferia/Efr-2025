@@ -1,0 +1,210 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/1.7.10/baubles-expanded.pw.toml"
+hash = "0243bfbb567cbf1504c636954bc0d71500e3fd6a7f948bc0a39207f1a961bd88"
+metafile = true
+
+[[files]]
+file = "mods/1.7.10/forgemultipart.pw.toml"
+hash = "b079541027f68b2d1033e83eb69cefb064d9df063c8d24e61402655dcef06d96"
+metafile = true
+
+[[files]]
+file = "mods/1.7.10/mrtjpcore.pw.toml"
+hash = "f9c2adf40203b1c9548a036f770f0058f4903ef4c943e7e1c1837989c32f6d8f"
+metafile = true
+
+[[files]]
+file = "mods/StationsMod-1.7.10.5.jar"
+hash = "14e699ee2191141bd41626cb96b61fef537e319b811eaeddcc8a9ff3c2f61d33"
+
+[[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "f174869b70c062f1cceeb27dad32264dee5cd5114b7e1c64ec68841f1c152132"
+metafile = true
+
+[[files]]
+file = "mods/carpentersblocks.pw.toml"
+hash = "80296f4737a6acc97e444ba8549ebe51f6060f29ec0e76def52617f421055788"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "7377139d602350d18d300283271bcac24dc9ce5dda11d549b7d5639a0ebd7ee6"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore-unofficial.pw.toml"
+hash = "8ed4a5db83ab437c5c4fdb009ca72158308666e81973a035ee0bdda92afb30c7"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
+metafile = true
+
+[[files]]
+file = "mods/cofh-lib.pw.toml"
+hash = "1129db358c22dfe9c80c8251c6105e65dc633fe267788707424f7a593cc98bd7"
+metafile = true
+
+[[files]]
+file = "mods/decocraft.pw.toml"
+hash = "4dca4451404d68b3c14d919badd75b5a2264f9917b8a359f3e80ef06d13f2b4f"
+metafile = true
+
+[[files]]
+file = "mods/fullscreen-windowed-borderless-for-minecraft.pw.toml"
+hash = "2e61fd567c10e346687f6a2a337723bf5d17fb4059fdb82ec50ab6dc7508ab05"
+metafile = true
+
+[[files]]
+file = "mods/furenikusroads.pw.toml"
+hash = "d2069490371147c83355a30b0d7d4d7a438ea76476c52e7510e135cf056fe0b6"
+metafile = true
+
+[[files]]
+file = "mods/gtnhlib.pw.toml"
+hash = "f9e7b9a07f61a0c2cbde5a20896fed6946c9d813ac6d0fd63443c256e7b8dbc5"
+metafile = true
+
+[[files]]
+file = "mods/ic2-classic.pw.toml"
+hash = "dff298cb8562e5395a31bd09b1f9e48c2040c8e294975348bf304afeb3389eae"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "2f92bb1aea927bab8e4b18840c5498a971c21e211d9e74a51304c3377a311110"
+metafile = true
+
+[[files]]
+file = "mods/kaizpatchx.pw.toml"
+hash = "4eb07c35fa3ce367ef0ca220fa81ee93d533ecd62b2aa5c3a95755e229fd85f1"
+metafile = true
+
+[[files]]
+file = "mods/lwjgl3ify.pw.toml"
+hash = "63fddaa8b54bc4a2f9cdf2dbdf653b23dfd2694c75226e9c10a25c05ef6a7f65"
+metafile = true
+
+[[files]]
+file = "mods/malisisdoors.pw.toml"
+hash = "c858e5bce7dba7d9b15411315b270e6747329218ed7caca55e891c224cc05c27"
+metafile = true
+
+[[files]]
+file = "mods/moarsigns.pw.toml"
+hash = "6b5ea216cfb3290fafe52ee12bba129207320853605ac0db89e29c71f0c453a5"
+metafile = true
+
+[[files]]
+file = "mods/monoblocks.pw.toml"
+hash = "29044804d1822f583f129724142c2db5e75ed26ae3d853284e717410b2e3e10b"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "2bf65d3d2f8d6d1e09145e3c6b08a56769f7975a667581fdcd28e72ffb7b65e9"
+metafile = true
+
+[[files]]
+file = "mods/notenoughitems-gtnh.pw.toml"
+hash = "9873da0d0b80b92e60c66ba1cb4ee57b1acc9bb6dcd35bcb76f57850e097301b"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "f80b8e656b8b08d7189773241f161c12f22c430cd62566510c26c3d76e410f93"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft.pw.toml"
+hash = "5cd824f1d1a4bfd2a90504eeed416bdb68fd55bbcd93e137ff1c651794d95943"
+metafile = true
+
+[[files]]
+file = "mods/planetguylib.pw.toml"
+hash = "d9d1d852324f317c3acce732444c8164d5e3106dffda3ddeb86ce15b2374c302"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft.pw.toml"
+hash = "7754fedf1187797bbbb60c01d845d2910cd630eee7cb5e2ee6995e737caefcb5"
+metafile = true
+
+[[files]]
+file = "mods/projectred.pw.toml"
+hash = "306b936dfaedb221d62515f725c5b179b5e54117d0d09d169fb4b70a1e091b3d"
+metafile = true
+
+[[files]]
+file = "mods/railcraft-cosmetic-additions.pw.toml"
+hash = "aa7d7579248bd2bbe3cf5b24c448d300c84f59408798eef82420482eda9db04c"
+metafile = true
+
+[[files]]
+file = "mods/railcraft.pw.toml"
+hash = "75ee848b6109625b00b5d98ce55f818469ce685c7b7aa1933df121d34cf924d1"
+metafile = true
+
+[[files]]
+file = "mods/remain-in-motion.pw.toml"
+hash = "62374193eedcf6fedc98c61ef53778954d420ef17a8d61f1886dc54f2fe32576"
+metafile = true
+
+[[files]]
+file = "mods/road-stuff.pw.toml"
+hash = "f0f8993ab52f710aa5d76366b38a0f3f45d81dfd6b8cd8625aa031c87b192717"
+metafile = true
+
+[[files]]
+file = "mods/small-boats-mod.pw.toml"
+hash = "e18eee1935fb1851e78ca5da7a93f9aac4b1554b266466bc513fe0b9fc88d432"
+metafile = true
+
+[[files]]
+file = "mods/style.pw.toml"
+hash = "b9c4089da22149f8698327ee361f33c21ed5cc523b7ce2a6494b7a298631f52a"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "df50657f40e3b77b110e019f6f2b1d010468ac5f0a26f807bae7258e9951d06b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "52c5a415a7bc071332ef8c791d4b97910cfba93c527c9f8aabfc05af63d30321"
+metafile = true
+
+[[files]]
+file = "mods/traincraft.pw.toml"
+hash = "ee0acbcc7380ec5aad1765f38c6f6911368dfc0ca4840179e8cfe6ec993a23d9"
+metafile = true
+
+[[files]]
+file = "mods/unimixins.pw.toml"
+hash = "053ad74894a5eda9252506d1737f65de1cb0c10d1be7adcab0acb2241e47893d"
+metafile = true
+
+[[files]]
+file = "mods/wintercraft-gruntpie224.pw.toml"
+hash = "b397e3f79c58cccd5fdd0265dce948abbfb054f6405cbf735a5fc88cea966ed4"
+metafile = true
+
+[[files]]
+file = "mods/wirelessredstone-cbe.pw.toml"
+hash = "45c55dc04cdb8b658231b2af3ab2d12d1fcd844a6a7b81245b76772e2b80fe42"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-gtnh.pw.toml"
+hash = "ee91fff2d8feb5a5ebb35a176e7962383041be76319de62168d2f3867216f285"
+metafile = true

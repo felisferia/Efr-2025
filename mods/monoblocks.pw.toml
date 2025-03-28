@@ -1,0 +1,13 @@
+name = "Monoblocks"
+filename = "Monoblocks-11.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "349f601eeb89e7f04874d311b6047f67abdcdd21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2709081
+project-id = 228075

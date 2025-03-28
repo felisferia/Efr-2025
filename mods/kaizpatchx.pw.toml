@@ -1,0 +1,15 @@
+name = "KaizPatchX"
+filename = "src1.7.10_20200822+KaizPatchX-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Kai-Z-JP/KaizPatchX/releases/download/v1.9.1/src1.7.10_20200822%2BKaizPatchX-1.9.1.jar"
+hash-format = "sha256"
+hash = "81a7a6c98c3d2a1f88ae04f5fd27a11f6a34e16fc25e1f696dfc9acb001d54f8"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Kai-Z-JP/KaizPatchX"
+tag = "v1.9.1"

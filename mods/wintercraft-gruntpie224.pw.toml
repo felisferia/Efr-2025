@@ -1,0 +1,13 @@
+name = "Wintercraft - gruntpie224"
+filename = "Wintercraft-1.7.10-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "240aceaa9576ff310811128ae93afd267af79c4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2266776
+project-id = 237990

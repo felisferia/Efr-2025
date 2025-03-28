@@ -1,0 +1,15 @@
+name = "MalisisDoors"
+filename = "malisisdoors-1.18.0-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.18.0-GTNH/malisisdoors-1.18.0-GTNH.jar"
+hash-format = "sha256"
+hash = "12c2b85b97f03be033281d4da3a202335a4888ef2c16ef0d5dd4655636fa7e8d"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/MalisisDoors"
+tag = "1.18.0-GTNH"

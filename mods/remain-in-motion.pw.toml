@@ -1,0 +1,13 @@
+name = "Remain in Motion"
+filename = "RemainInMotion-2.8.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "123813763782db28e40f6d63f8df878a4e462870"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2281430
+project-id = 228462

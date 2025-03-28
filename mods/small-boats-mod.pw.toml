@@ -1,0 +1,13 @@
+name = "Small Boats mod"
+filename = "smallboats-1.7.10-10.13.0-16.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f53c24d4e0608a3bb34cf7b22f336d9c50a590b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2830708
+project-id = 352242
