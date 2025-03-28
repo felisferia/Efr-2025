@@ -1,0 +1,13 @@
+name = "Angelica"
+filename = "angelica-1.0.0-beta40.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfb511f6bdb66e814041532028d7aa89ad3a62b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6325511
+project-id = 988067

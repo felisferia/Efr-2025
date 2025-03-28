@@ -20,6 +20,16 @@ file = "mods/StationsMod-1.7.10.5.jar"
 hash = "14e699ee2191141bd41626cb96b61fef537e319b811eaeddcc8a9ff3c2f61d33"
 
 [[files]]
+file = "mods/angelica.pw.toml"
+hash = "722ed040d100fef3b430505106c00fc2822bf9472b68ac65badbf557c37a60ca"
+metafile = true
+
+[[files]]
+file = "mods/archaicfix.pw.toml"
+hash = "87c97763cde1a28ad87b609cb3bf8a232a052202a79203baf3c23f17f0305853"
+metafile = true
+
+[[files]]
 file = "mods/bibliocraft.pw.toml"
 hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
 metafile = true
@@ -60,6 +70,16 @@ hash = "4dca4451404d68b3c14d919badd75b5a2264f9917b8a359f3e80ef06d13f2b4f"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "9442cab9d8a6bf93eaaf900e1142683cb27d419d9a7eb250b169d6246cfc9f50"
+metafile = true
+
+[[files]]
+file = "mods/foamfix-optimization-mod.pw.toml"
+hash = "9c562e68ea529e4f835b9af28eda92fd88e65d7174d24c13bcbce162c49e9fd8"
+metafile = true
+
+[[files]]
 file = "mods/fullscreen-windowed-borderless-for-minecraft.pw.toml"
 hash = "2e61fd567c10e346687f6a2a337723bf5d17fb4059fdb82ec50ab6dc7508ab05"
 metafile = true
@@ -72,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/gtnhlib.pw.toml"
 hash = "f9e7b9a07f61a0c2cbde5a20896fed6946c9d813ac6d0fd63443c256e7b8dbc5"
+metafile = true
+
+[[files]]
+file = "mods/hodgepodge.pw.toml"
+hash = "282990abe3beacb9a8c9bcdcde12628f767918698f0801a13ebf4d793accb2cb"
 metafile = true
 
 [[files]]
@@ -162,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/road-stuff.pw.toml"
 hash = "f0f8993ab52f710aa5d76366b38a0f3f45d81dfd6b8cd8625aa031c87b192717"
+metafile = true
+
+[[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
 metafile = true
 
 [[files]]
