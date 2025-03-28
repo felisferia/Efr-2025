@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/GTNewHorizons/Railcraft/releases/download/9.16.8-pre/Railcraft-9.16.8-pre.jar"
 hash-format = "sha256"
-hash = "10548c82b3c9c8ba2af163d25f7410a150e379d057797ced1aaa081a4466ca15"
+hash = "015e7d03c6c78989cc14cb04c7f9732625813fc942ce764287351381fe609608"
 
 [update]
 [update.github]
