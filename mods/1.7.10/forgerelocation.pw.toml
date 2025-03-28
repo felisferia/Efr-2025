@@ -1,0 +1,15 @@
+name = "ForgeRelocation"
+filename = "ForgeRelocation-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.3.1/ForgeRelocation-0.3.1.jar"
+hash-format = "sha256"
+hash = "0b1a6fc982c076af02b5edce67e53c3e5b47cc4a19084580a747bf346a0cf66a"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/ForgeRelocation"
+tag = "0.3.1"

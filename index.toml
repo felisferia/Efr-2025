@@ -1,6 +1,94 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/BiblioCraft.cfg"
+hash = "73d8cdef17b0de12c847971ed957a81b85f96971a8b30fb27f60b30f3bc27771"
+
+[[files]]
+file = "config/IGWMod.cfg"
+hash = "52cd917ee9452639272289581db8c5cd4d299326b68bf80a04b1d13f5362d784"
+
+[[files]]
+file = "config/MrTJPCore.cfg"
+hash = "b133701ea057c550fb94eab97bfc1784f9292ba07c02fb4e33c0d715816fec31"
+
+[[files]]
+file = "config/NEI/client.cfg"
+hash = "2d3d39020a73779c0ea182d97f2b29885529fb22e04369e636ea0ff7c7275dc3"
+
+[[files]]
+file = "config/NGTLib.cfg"
+hash = "870e4780c764caa65053a30dadf8cec420176c84c81ff4947fefebd8ee7b86e3"
+
+[[files]]
+file = "config/OpenComputers.cfg"
+hash = "4af3b716d532bf7490e53b4ead18403af83162c2e0e3b957882d34f979e5cba6"
+
+[[files]]
+file = "config/PneumaticCraft.cfg"
+hash = "1a0165aebeb6d8a40868ad9f48d4b2e503a4dd10863527b702f645c06c39e0d3"
+
+[[files]]
+file = "config/ProjectRed.cfg"
+hash = "5030b198c5bee3798ef8c1e4fbcfa5d0b824c90f7b1a173be3e3f67cabe08695"
+
+[[files]]
+file = "config/RTM.cfg"
+hash = "7c566b7b771dd5c5f1fcca4e9d59ba521c7c342ba087d9949d198dc36ed3895f"
+
+[[files]]
+file = "config/Wintercraft.cfg"
+hash = "22bc4fe894d5e64971dc408315cb54783296d712f3527820ee423db1fdb90b00"
+
+[[files]]
+file = "config/WirelessRedstone.cfg"
+hash = "06b2566fdb667718c2cadfceca995e2c742c9c364005209893cee9e325e0d7af"
+
+[[files]]
+file = "config/archaicfix.cfg"
+hash = "a25be2578730f8b702e73299603b4f478a5b7701167acbcd5f8ed923bf95e442"
+
+[[files]]
+file = "config/buildcraft/main.cfg"
+hash = "802f3c2e57a0c700dd29f9c058469d78675c11d08f09c379b6057fd8af193427"
+
+[[files]]
+file = "config/cfm.cfg"
+hash = "7e5b00d156365e729d7a6ff0018766186face86148798a816ef8b002ac59519e"
+
+[[files]]
+file = "config/cofh/core/common.cfg"
+hash = "e6aaa1da5333d497de81df71eef3f071aa6115adeb251e212236ce9a20dc0622"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "a9c0601a9a064a307a6a008d33963539f51f292e42f4f0724c037fdc2d8c7bd0"
+
+[[files]]
+file = "config/hodgepodge.cfg"
+hash = "898ea234a80d481901fb74a329173f6edbd87973df6ed5a4607a5a1a4f6705a7"
+
+[[files]]
+file = "config/malisisdoors.cfg"
+hash = "c149c83873e8e91897c65a7e3d2d59ec6b59a29635a4ce60e642d43447e66311"
+
+[[files]]
+file = "config/railcraft/blocks.cfg"
+hash = "ab0f99f774aebfe76a0967e2739cf2ce009236cf3454b017d6e808482b5fa0ca"
+
+[[files]]
+file = "config/railcraft/railcraft.cfg"
+hash = "09c182482be0a8b330a0ab04b69e5b6e091edbcad220a2bd8caa2d468c01f0d9"
+
+[[files]]
+file = "config/shaders.properties"
+hash = "7a8a3e8f95b26d7fd7f0b028160324b8e62b1fb370231adbc3ccaae412aa4592"
+
+[[files]]
+file = "config/smallboats.cfg"
+hash = "e7b2f75b9327118c2c02819fb1a2d805a805f81d5fdce26e50f837df40c50c30"
+
+[[files]]
 file = "mods/1.7.10/baubles-expanded.pw.toml"
 hash = "0243bfbb567cbf1504c636954bc0d71500e3fd6a7f948bc0a39207f1a961bd88"
 metafile = true
@@ -8,6 +96,16 @@ metafile = true
 [[files]]
 file = "mods/1.7.10/forgemultipart.pw.toml"
 hash = "b079541027f68b2d1033e83eb69cefb064d9df063c8d24e61402655dcef06d96"
+metafile = true
+
+[[files]]
+file = "mods/1.7.10/forgerelocation.pw.toml"
+hash = "3786eac2955fc1790b42e750e96ab31a5b6d748cc8763e591b466db1ce8e5299"
+metafile = true
+
+[[files]]
+file = "mods/1.7.10/forgerelocationfmp.pw.toml"
+hash = "4d37484ef5e9cd37e2ef0660adac1e35834d2489739abbcdfec1e2ab4c0803b4"
 metafile = true
 
 [[files]]
