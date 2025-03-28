@@ -3,6 +3,6 @@ filename = "RTM-Monorail-BubbleCar.zip"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/rtm/file/RTM-Monorail-BubbleCar.zip"
+url = "https://play.fennet.rentals/packwiz/efrana/rtm/file/RTM-Monorail-BubbleCar.zip"
 hash-format = "sha256"
 hash = "0e29472d46eeac3299eb88ed04bf19aeb17ce98e9ce461dc6bb7f6a45d8e9097"

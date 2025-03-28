@@ -3,6 +3,6 @@ filename = "hi03ExpressRailway_Catenary.zip"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/rtm/file/hi03ExpressRailway_Catenary.zip"
+url = "https://play.fennet.rentals/packwiz/efrana/rtm/file/hi03ExpressRailway_Catenary.zip"
 hash-format = "sha256"
 hash = "62fd06d0f77d4ddd72876452558fc8086e9538cb400f263051867740ae8b7806"

@@ -3,6 +3,6 @@ filename = "RTM-U.K_London_Underground-v3.0.zip"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/rtm/file/RTM-U.K_London_Underground-v3.0.zip"
+url = "https://play.fennet.rentals/packwiz/efrana/rtm/file/RTM-U.K_London_Underground-v3.0.zip"
 hash-format = "sha256"
 hash = "15b522e5054a3484624e410e35c0beeb6e6383147dab7fde4803d8fa97893b88"

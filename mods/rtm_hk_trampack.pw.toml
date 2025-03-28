@@ -3,6 +3,6 @@ filename = "RTM_HK_TramPack.zip"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/rtm/file/RTM_HK_TramPack.zip"
+url = "https://play.fennet.rentals/packwiz/efrana/rtm/file/RTM_HK_TramPack.zip"
 hash-format = "sha256"
 hash = "5d490b2776a7abb06c0a0623e720ece4aabb49b0296e50a30b41082c642a8c88"

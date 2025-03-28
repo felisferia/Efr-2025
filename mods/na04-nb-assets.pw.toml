@@ -3,6 +3,6 @@ filename = "NA04-NB-Assets.zip"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/rtm/file/NA04-NB-Assets.zip"
+url = "https://play.fennet.rentals/packwiz/efrana/rtm/file/NA04-NB-Assets.zip"
 hash-format = "sha256"
 hash = "df98951a0c0b91520c4d6dca6045cefb9afc8b9d1c4f1d6d89e69d464d24ceec"

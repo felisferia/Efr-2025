@@ -3,6 +3,6 @@ filename = "TrainPack_JRE_SEE4_v1.1.zip"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/rtm/file/TrainPack_JRE_SEE4_v1.1.zip"
+url = "https://play.fennet.rentals/packwiz/efrana/rtm/file/TrainPack_JRE_SEE4_v1.1.zip"
 hash-format = "sha256"
 hash = "d2f727f006278939df1e5b27d91eeba16d2f7652cc8136b757e43020c6a66648"

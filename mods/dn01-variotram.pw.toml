@@ -3,6 +3,6 @@ filename = "DN01-Variotram.zip"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/rtm/file/DN01-Variotram.zip"
+url = "https://play.fennet.rentals/packwiz/efrana/rtm/file/DN01-Variotram.zip"
 hash-format = "sha256"
 hash = "b3d8635f7750ac5796f3c504006b543c1e5cfd608478ebaf18deeb81309f9df1"
