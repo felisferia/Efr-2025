@@ -90,12 +90,12 @@ hash = "e7b2f75b9327118c2c02819fb1a2d805a805f81d5fdce26e50f837df40c50c30"
 
 [[files]]
 file = "mods/1.7.10/baubles-expanded.pw.toml"
-hash = "0243bfbb567cbf1504c636954bc0d71500e3fd6a7f948bc0a39207f1a961bd88"
+hash = "442d31536232ed015e6ccd8a97ee40a5b4f78cc861d01510c76c8b32f62551a9"
 metafile = true
 
 [[files]]
 file = "mods/1.7.10/forgemultipart.pw.toml"
-hash = "b079541027f68b2d1033e83eb69cefb064d9df063c8d24e61402655dcef06d96"
+hash = "a9d8d9cf1f7f91a1d15b4d2ad62aeb4435903ad0054aecdbda84e2a5e7c2956b"
 metafile = true
 
 [[files]]
@@ -119,12 +119,12 @@ hash = "14e699ee2191141bd41626cb96b61fef537e319b811eaeddcc8a9ff3c2f61d33"
 
 [[files]]
 file = "mods/angelica.pw.toml"
-hash = "dabcbfefa4f930236598d6509fe20912f64fbbcd36c938cdc225fac58e8ea51b"
+hash = "4052d64b6f1b91d1af9adc637092114acb704d5dd4130dd99b337487d13c85b5"
 metafile = true
 
 [[files]]
 file = "mods/archaicfix.pw.toml"
-hash = "87c97763cde1a28ad87b609cb3bf8a232a052202a79203baf3c23f17f0305853"
+hash = "e2ea462f068b9b84ab0e1d302f56f300cb2b4938d1ace27eb88c23b7ed514c9b"
 metafile = true
 
 [[files]]
@@ -144,12 +144,12 @@ metafile = true
 
 [[files]]
 file = "mods/chisel.pw.toml"
-hash = "7377139d602350d18d300283271bcac24dc9ce5dda11d549b7d5639a0ebd7ee6"
+hash = "fb6626f78c61c9b74b019b1e2c21b887efd4b08d5fa2313ef2af1f06ecb3012a"
 metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "8ed4a5db83ab437c5c4fdb009ca72158308666e81973a035ee0bdda92afb30c7"
+hash = "99a5f67ee9d30cf3fe31b82721d87a1d2e18ad44979010a0cfca1aeeb988e9d2"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "f9e7b9a07f61a0c2cbde5a20896fed6946c9d813ac6d0fd63443c256e7b8dbc5"
+hash = "c9ccaf08c2a10bdfb000a038e4f612f2a0ee5b41b1f092b566c921c9016771c1"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge.pw.toml"
-hash = "282990abe3beacb9a8c9bcdcde12628f767918698f0801a13ebf4d793accb2cb"
+hash = "fc702b668507b36f733d8124b0c8a12d4c9ed2fe9a721b9f12e6709dfbfa659d"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/lwjgl3ify.pw.toml"
-hash = "63fddaa8b54bc4a2f9cdf2dbdf653b23dfd2694c75226e9c10a25c05ef6a7f65"
+hash = "c447174aff52327aedc672f52efd5f99065499258881c9735cd4b6ea19e9ecdc"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "9873da0d0b80b92e60c66ba1cb4ee57b1acc9bb6dcd35bcb76f57850e097301b"
+hash = "42c876b628e799d312ca1978c7ecf73cb8ce803b83254cfec428420e147cb176"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "f80b8e656b8b08d7189773241f161c12f22c430cd62566510c26c3d76e410f93"
+hash = "c06f835fd9fc5fedb20e917055eed96590742d8f51a768feb80066f2154bcb78"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectred.pw.toml"
-hash = "306b936dfaedb221d62515f725c5b179b5e54117d0d09d169fb4b70a1e091b3d"
+hash = "3cf373f172bbbd44fb49ff74c8f90787b6f1d0e4bb5779ef44f43a6e3ba9d59d"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/railcraft.pw.toml"
-hash = "28dddd4f9302770e100548779010fa07eb6b2937ba2243e38ad90fffdbb9061e"
+hash = "c8441edf97f0b2e8ee55a850d9ee4124a15a0843509bf01625a097ae9e699b8f"
 metafile = true
 
 [[files]]
@@ -509,5 +509,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-gtnh.pw.toml"
-hash = "ee91fff2d8feb5a5ebb35a176e7962383041be76319de62168d2f3867216f285"
+hash = "f60bd543ac70cd589851543099d39cfa53b7e329ac32c9b4660d42e80352ab00"
 metafile = true

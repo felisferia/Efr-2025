@@ -1,15 +1,15 @@
 name = "worldedit-gtnh"
-filename = "worldedit-v0.0.7.jar"
+filename = "worldedit-v0.0.8.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/worldedit-gtnh/releases/download/v0.0.7/worldedit-v0.0.7.jar"
+url = "https://github.com/GTNewHorizons/worldedit-gtnh/releases/download/v0.0.8/worldedit-v0.0.8.jar"
 hash-format = "sha256"
-hash = "f044fe02467fdcee5248e39748ea73f774b12091922cba9ece01a4b7036f05f9"
+hash = "5e82256fce027435a89389026fd9cb52c28b0ff1da6c3a968af2ff94e2d0891b"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/worldedit-gtnh"
-tag = "v0.0.7"
+tag = "v0.0.8"

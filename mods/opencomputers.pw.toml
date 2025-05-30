@@ -1,15 +1,15 @@
 name = "OpenComputers"
-filename = "OpenComputers-1.11.12-GTNH.jar"
+filename = "OpenComputers-1.11.15-GTNH.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.12-GTNH/OpenComputers-1.11.12-GTNH.jar"
+url = "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.15-GTNH/OpenComputers-1.11.15-GTNH.jar"
 hash-format = "sha256"
-hash = "c2f63f7e2d28aaf925423c046bb125cf7172971cf2fcc237f76179ce361bb5b1"
+hash = "de8ee852c5cf2079298cf4ce6f733357c869760b98964a62e3e728c22375c6bf"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/OpenComputers"
-tag = "1.11.12-GTNH"
+tag = "1.11.15-GTNH"
