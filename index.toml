@@ -95,12 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/1.7.10/forgemultipart.pw.toml"
-hash = "a9d8d9cf1f7f91a1d15b4d2ad62aeb4435903ad0054aecdbda84e2a5e7c2956b"
+hash = "496e4b928353eaeb5bef61c48a54b7ec480624a941cb98b1d2b8ac5b5d91cdf8"
 metafile = true
 
 [[files]]
 file = "mods/1.7.10/forgerelocation.pw.toml"
-hash = "3786eac2955fc1790b42e750e96ab31a5b6d748cc8763e591b466db1ce8e5299"
+hash = "4239c45f61db2bb993294d0ca430f46f66bc31a1851dcfb948c5e302f6393709"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ hash = "14e699ee2191141bd41626cb96b61fef537e319b811eaeddcc8a9ff3c2f61d33"
 
 [[files]]
 file = "mods/angelica.pw.toml"
-hash = "4052d64b6f1b91d1af9adc637092114acb704d5dd4130dd99b337487d13c85b5"
+hash = "b1dd8e9b9ba64f9b7c7835dec60d92bed0f9db8586e0ff82cb27f45449b8a068"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft.pw.toml"
-hash = "f174869b70c062f1cceeb27dad32264dee5cd5114b7e1c64ec68841f1c152132"
+hash = "18554e15fe53f581157b4b1282d90ef6ff94342e734dad784fa20edb2e6b34cc"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "c9ccaf08c2a10bdfb000a038e4f612f2a0ee5b41b1f092b566c921c9016771c1"
+hash = "88616ba40ed7bbb61375fb202aa38e46cf0f01bec42178e8c59ba712f96379d9"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge.pw.toml"
-hash = "fc702b668507b36f733d8124b0c8a12d4c9ed2fe9a721b9f12e6709dfbfa659d"
+hash = "5edf27207aa726bd7187c8af77c39511719cc559b2dd98a2abd87c9517786aa3"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "42c876b628e799d312ca1978c7ecf73cb8ce803b83254cfec428420e147cb176"
+hash = "0f42a7706d40c7b03ef28ab442aee4e2481476c40e063dea2e09e77749903d43"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "c06f835fd9fc5fedb20e917055eed96590742d8f51a768feb80066f2154bcb78"
+hash = "e222c019a5722e9988b104e3f12cb13b7d536c05c6f560f9b59ebd960641183c"
 metafile = true
 
 [[files]]
