@@ -90,12 +90,12 @@ hash = "e7b2f75b9327118c2c02819fb1a2d805a805f81d5fdce26e50f837df40c50c30"
 
 [[files]]
 file = "mods/1.7.10/baubles-expanded.pw.toml"
-hash = "442d31536232ed015e6ccd8a97ee40a5b4f78cc861d01510c76c8b32f62551a9"
+hash = "de10532f8ab6512dfcd8e8672c55e3f3c64114b51c59a732b998c848680ac157"
 metafile = true
 
 [[files]]
 file = "mods/1.7.10/forgemultipart.pw.toml"
-hash = "496e4b928353eaeb5bef61c48a54b7ec480624a941cb98b1d2b8ac5b5d91cdf8"
+hash = "4ba121d97dbcab27adb3a4652bb8f58f00b676aa2aa6ba19d03b44370a1f9d26"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ hash = "14e699ee2191141bd41626cb96b61fef537e319b811eaeddcc8a9ff3c2f61d33"
 
 [[files]]
 file = "mods/angelica.pw.toml"
-hash = "b1dd8e9b9ba64f9b7c7835dec60d92bed0f9db8586e0ff82cb27f45449b8a068"
+hash = "169349402f0d34b1fed6f96a4b1ee5d247ba55758a57968633451cfdb46fbaf9"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft.pw.toml"
-hash = "18554e15fe53f581157b4b1282d90ef6ff94342e734dad784fa20edb2e6b34cc"
+hash = "855e90971f90ad5c09a0728c056806183f75bd51f57f18a510580207f89485bc"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "88616ba40ed7bbb61375fb202aa38e46cf0f01bec42178e8c59ba712f96379d9"
+hash = "62fd4b1234444e6edeb1cf5630a6b36aa08ffaaa36a071dd65565d76d2ff72fb"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge.pw.toml"
-hash = "5edf27207aa726bd7187c8af77c39511719cc559b2dd98a2abd87c9517786aa3"
+hash = "25e31962ce23d5c33450e9d101bdd826b45dbf030b79a17dcd02eb625b0558ac"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/malisisdoors.pw.toml"
-hash = "c858e5bce7dba7d9b15411315b270e6747329218ed7caca55e891c224cc05c27"
+hash = "540ed9548bcead64bb69085f383967a48e588543792d6f23adb1521146a773ab"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "0f42a7706d40c7b03ef28ab442aee4e2481476c40e063dea2e09e77749903d43"
+hash = "da3e34cf565a8e0f48bdce4e3886839718a30619903620e658a07ff2a8146210"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectred.pw.toml"
-hash = "3cf373f172bbbd44fb49ff74c8f90787b6f1d0e4bb5779ef44f43a6e3ba9d59d"
+hash = "7c95dc23a8c31cdd37aa99952bf35fd97b0340f7f3e39d225bb0fe6774de2eff"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/wirelessredstone-cbe.pw.toml"
-hash = "45c55dc04cdb8b658231b2af3ab2d12d1fcd844a6a7b81245b76772e2b80fe42"
+hash = "d1c8096dcb62d6bb0e7f01a5efa2fd4ec08bb77b0d05d508d8255dc6886290a0"
 metafile = true
 
 [[files]]
