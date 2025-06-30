@@ -273,11 +273,6 @@ hash = "54ebc4fae1a78972db8af2fd5fea9fa5cf8478acb8984f51e57e3acab7701576"
 metafile = true
 
 [[files]]
-file = "mods/lwjgl3ify.pw.toml"
-hash = "c447174aff52327aedc672f52efd5f99065499258881c9735cd4b6ea19e9ecdc"
-metafile = true
-
-[[files]]
 file = "mods/malisisdoors.pw.toml"
 hash = "c858e5bce7dba7d9b15411315b270e6747329218ed7caca55e891c224cc05c27"
 metafile = true
