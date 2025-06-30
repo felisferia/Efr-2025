@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisel.pw.toml"
-hash = "fb6626f78c61c9b74b019b1e2c21b887efd4b08d5fa2313ef2af1f06ecb3012a"
+hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
 metafile = true
 
 [[files]]
