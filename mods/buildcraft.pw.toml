@@ -1,15 +1,15 @@
 name = "BuildCraft"
-filename = "buildcraft-7.1.44.jar"
+filename = "buildcraft-7.1.45.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.44/buildcraft-7.1.44.jar"
+url = "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.45/buildcraft-7.1.45.jar"
 hash-format = "sha256"
-hash = "42d3e70f9435f0c0bdca304d57a680aa6ec9e6f8536620778452e3213e126d80"
+hash = "9bd6e78c4b8bece0e2c9c26b59c46a8bfe0d451b3ffdb1482e30ff6935b941bd"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/BuildCraft"
-tag = "7.1.44"
+tag = "7.1.45"

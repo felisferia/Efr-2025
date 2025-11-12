@@ -1,15 +1,15 @@
 name = "ForgeMultipart"
-filename = "ForgeMultipart-1.6.6.jar"
+filename = "ForgeMultipart-1.7.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.6.6/ForgeMultipart-1.6.6.jar"
+url = "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.0/ForgeMultipart-1.7.0.jar"
 hash-format = "sha256"
-hash = "3ea9051d31987ca37059fcda13703b9a21e4e9b141d4a5249d629023ec320851"
+hash = "aaa0a3fa2fc367e973617ef1f9aef4974307c4ace196afca15086dfccf728ed6"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/ForgeMultipart"
-tag = "1.6.6"
+tag = "1.7.0"

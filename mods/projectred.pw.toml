@@ -1,15 +1,15 @@
 name = "ProjectRed"
-filename = "ProjRed-4.11.5-GTNH.jar"
+filename = "ProjRed-4.12.4-GTNH.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.11.5-GTNH/ProjRed-4.11.5-GTNH.jar"
+url = "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.4-GTNH/ProjRed-4.12.4-GTNH.jar"
 hash-format = "sha256"
-hash = "a58fc841d9b797b1cb243e1376e3eefb065d5c1353f2c7f7709b664e58267a89"
+hash = "75f87301ac4b4b022a71c5c3ea6ea0dd9560b2151bde11af2e877bd688e0204a"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/ProjectRed"
-tag = "4.11.5-GTNH"
+tag = "4.12.4-GTNH"

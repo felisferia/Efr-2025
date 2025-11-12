@@ -90,17 +90,17 @@ hash = "e7b2f75b9327118c2c02819fb1a2d805a805f81d5fdce26e50f837df40c50c30"
 
 [[files]]
 file = "mods/1.7.10/baubles-expanded.pw.toml"
-hash = "de10532f8ab6512dfcd8e8672c55e3f3c64114b51c59a732b998c848680ac157"
+hash = "d0dedd0df65b46cd0660396c4b30285a04b13f41b813562aeeb95bb77b2a2d17"
 metafile = true
 
 [[files]]
 file = "mods/1.7.10/forgemultipart.pw.toml"
-hash = "4ba121d97dbcab27adb3a4652bb8f58f00b676aa2aa6ba19d03b44370a1f9d26"
+hash = "bd18ea1b5dac3ebe81efa8dc2885c63642a8a6ff0b3d7cd03e1438b6fcaf65e9"
 metafile = true
 
 [[files]]
 file = "mods/1.7.10/forgerelocation.pw.toml"
-hash = "4239c45f61db2bb993294d0ca430f46f66bc31a1851dcfb948c5e302f6393709"
+hash = "121b1fa1a31f533acd54741b1a5f0ed322fa3d10e1d72cd244c7f469ab8d4cf8"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/1.7.10/mrtjpcore.pw.toml"
-hash = "f9c2adf40203b1c9548a036f770f0058f4903ef4c943e7e1c1837989c32f6d8f"
+hash = "b11b1f19eba53aa783ebb7047a9d0a2b80e6857d7eb6c7ecc1d879d6e3830118"
 metafile = true
 
 [[files]]
@@ -119,12 +119,12 @@ hash = "14e699ee2191141bd41626cb96b61fef537e319b811eaeddcc8a9ff3c2f61d33"
 
 [[files]]
 file = "mods/angelica.pw.toml"
-hash = "169349402f0d34b1fed6f96a4b1ee5d247ba55758a57968633451cfdb46fbaf9"
+hash = "8b3a69fd62cdf23f4b397f576b894688ee4779df43bb4a0a5545d0716098eb23"
 metafile = true
 
 [[files]]
 file = "mods/archaicfix.pw.toml"
-hash = "e2ea462f068b9b84ab0e1d302f56f300cb2b4938d1ace27eb88c23b7ed514c9b"
+hash = "52167fe78f9cc08a6bc6fb5005db660b02ffb89e16bc8331510416fe23416050"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft.pw.toml"
-hash = "855e90971f90ad5c09a0728c056806183f75bd51f57f18a510580207f89485bc"
+hash = "10a335e51075d6666633ca08e8141076d4db8288a5995b40014c6df9ee2d4a41"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "99a5f67ee9d30cf3fe31b82721d87a1d2e18ad44979010a0cfca1aeeb988e9d2"
+hash = "cce16701c186c342f4ce0b20a41cafc4ae7af1a00e0bf85b6a26d89ee1ba99e7"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "62fd4b1234444e6edeb1cf5630a6b36aa08ffaaa36a071dd65565d76d2ff72fb"
+hash = "b01e5648aad46c0bd8c71691bbcff3a6d973bbdae0d72e4f1738b11af5623e45"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge.pw.toml"
-hash = "25e31962ce23d5c33450e9d101bdd826b45dbf030b79a17dcd02eb625b0558ac"
+hash = "b049771c32a81fa53568e77a0476e457099573a6e27958d9b5301058080a9b02"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/kaizpatchx.pw.toml"
-hash = "4eb07c35fa3ce367ef0ca220fa81ee93d533ecd62b2aa5c3a95755e229fd85f1"
+hash = "10c867e7f91b33818b983beff93c4e994a97450ce6f118a61b96316063f62b3c"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/malisisdoors.pw.toml"
-hash = "540ed9548bcead64bb69085f383967a48e588543792d6f23adb1521146a773ab"
+hash = "2bd36e7387858b48488ce02dd9ec9addee045f44467e8fbd069c1ffe4bdb08d6"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "da3e34cf565a8e0f48bdce4e3886839718a30619903620e658a07ff2a8146210"
+hash = "4f444c9190d4c497cd91dcc2b6559c85eb7e8a91c1cd5a8d2480e8570baedcec"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "e222c019a5722e9988b104e3f12cb13b7d536c05c6f560f9b59ebd960641183c"
+hash = "71be6fe1df27cc599b78b472ca9d95e49d160ce0925c27f6f215e23b8ded14a2"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectred.pw.toml"
-hash = "7c95dc23a8c31cdd37aa99952bf35fd97b0340f7f3e39d225bb0fe6774de2eff"
+hash = "df3ac36c834b80a0063c17f80776561c258fbb3d6187aeb6f5ca37421f811c63"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/railcraft.pw.toml"
-hash = "c8441edf97f0b2e8ee55a850d9ee4124a15a0843509bf01625a097ae9e699b8f"
+hash = "d9ce32f79db6367a640da4187152c106e09433aca8ba31c6f612a6c257d86a8b"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins.pw.toml"
-hash = "053ad74894a5eda9252506d1737f65de1cb0c10d1be7adcab0acb2241e47893d"
+hash = "9b84a015e887f80d3443d09298620587c8cf743a9dda35df98e10e538af7a2fe"
 metafile = true
 
 [[files]]
