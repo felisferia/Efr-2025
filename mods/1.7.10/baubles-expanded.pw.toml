@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.2-GTNH/BaublesExpanded-2.2.2-GTNH.jar"
 hash-format = "sha256"
-hash = "66073e5d0ebf851bb5819ebea62d01500a0ba6e80166f56b00896e336a63d0cd"
+hash = "7db0f4415edddee3ab313dcef36f1473fbc01ec5654763f4a80e730b8d81f066"
 
 [update]
 [update.github]
