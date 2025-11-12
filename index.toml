@@ -89,11 +89,6 @@ file = "config/smallboats.cfg"
 hash = "e7b2f75b9327118c2c02819fb1a2d805a805f81d5fdce26e50f837df40c50c30"
 
 [[files]]
-file = "mods/1.7.10/baubles-expanded.pw.toml"
-hash = "a8723962b65f7ba2fd78856cb437226030d20a4d8119e045ca25730ee34ce6a5"
-metafile = true
-
-[[files]]
 file = "mods/1.7.10/forgemultipart.pw.toml"
 hash = "bd18ea1b5dac3ebe81efa8dc2885c63642a8a6ff0b3d7cd03e1438b6fcaf65e9"
 metafile = true
@@ -125,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/archaicfix.pw.toml"
 hash = "52167fe78f9cc08a6bc6fb5005db660b02ffb89e16bc8331510416fe23416050"
+metafile = true
+
+[[files]]
+file = "mods/baubles-expanded.pw.toml"
+hash = "a8723962b65f7ba2fd78856cb437226030d20a4d8119e045ca25730ee34ce6a5"
 metafile = true
 
 [[files]]
